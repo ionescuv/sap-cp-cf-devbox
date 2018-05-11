@@ -1,0 +1,19 @@
+{
+  "name": "sap-cp-cf-devbox",
+  "version": "1.0.0",
+  "description": "Toolbox to set up your local development environment when working with SAP CP CF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"launchpad" : "node runLocal/runlocal.js launchpad"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ionescuv/sap-cp-cf-devbox.git"
+  },
+  "author": "ionescuv",
+  "license": "ISC",
+  "dependencies": {
+    "@sap/site-entry": "^1.25.0"
+  }
+}

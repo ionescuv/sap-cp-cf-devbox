@@ -1,0 +1,1 @@
+require("@sap/site-entry");
