@@ -23,7 +23,7 @@ Aim is to:
 ### Containerized backing services
 
 #### Prerequisites
-The backing services are running in a Vagrant-based ubuntu VM. As a result [Vagrant](www.vagrantup.com) is a prerequisite, along with a suitable provider, like [VirtualBox](www.virtualbox.org)
+The backing services are running in a Vagrant-based ubuntu VM. As a result [Vagrant](https://www.vagrantup.com) is a prerequisite, along with a suitable provider, like [VirtualBox](https://www.virtualbox.org)
 
 #### Start
 ```
