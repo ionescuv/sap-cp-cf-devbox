@@ -33,10 +33,10 @@ vagrant up
 
 As a result the following components are provisioned:
 * Postgresql DB (accessible @ localhost:5432)
-* Web-based DB client [pgAdmin](https://www.pgadmin.org/). Accessible @ [http://192.168.33.10]**
+* Web-based DB client [pgAdmin](https://www.pgadmin.org/). Accessible @ [http://192.168.33.10](http://192.168.33.10)**
 * RabbitMQ instance @ localhost:5672  
-* RabbitMQ management dashboard. Accessible @ [http://192.168.33.10:15672]
-* Swagger UI. Accessible @ [http://192.168.33.10:8080]**
+* RabbitMQ management dashboard. Accessible @ [http://192.168.33.10:15672](http://192.168.33.10:15672)
+* Swagger UI. Accessible @ [http://192.168.33.10:8080](http://192.168.33.10:8080)**
 
 `user/pass: admin/admin`
 
