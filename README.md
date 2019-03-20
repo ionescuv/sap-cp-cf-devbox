@@ -1,3 +1,7 @@
+**This repository has been deprecated in favor of [https://github.com/ionescuv/sap-cp-cf-starter](https://github.com/ionescuv/sap-cp-cf-starter)**
+
+---
+
 # "SAP CP CF Local Test Environment"-as-Code
 
 The `SAP CP CF DevBox` provides tools to enable local testing of applications designed for the SAP Cloud Platform Cloud Foundry environment.
